@@ -1,5 +1,6 @@
 ///scr_checkKey()
 //tu
+// branch pachi
 var keyPos= -1;
 
 switch(keyboard_key){
