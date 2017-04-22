@@ -1,5 +1,5 @@
 ///scr_checkKey()
-
+//tu
 var keyPos= -1;
 
 switch(keyboard_key){
